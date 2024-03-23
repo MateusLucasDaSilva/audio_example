@@ -20,6 +20,7 @@ dependencies:
   just_audio: ^0.9.36
   ffmpeg_cli: ^0.2.0
   flutter_sound: ^9.2.13
+  ffmpeg_kit_flutter: ^6.0.3
 
 dev_dependencies:
   flutter_test:
